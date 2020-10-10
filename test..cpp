@@ -12,7 +12,6 @@ int main()
     {
         cout<<"\n Hello";
     }
-    n=n+2;
     if(n==10)
     {
         cout<<"\n BYe";
